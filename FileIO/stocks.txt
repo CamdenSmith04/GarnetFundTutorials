@@ -1,0 +1,4 @@
+Financials  APO, KKR, HLNE, ARES, XLF
+Energy  XOM, CVX, COP, SLB, XLE
+Tech    MSFT, AVGO, TXN, GOOGL, XLK
+Steel   STLD, NUE, CLF, X, SLX
